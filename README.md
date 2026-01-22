@@ -74,3 +74,5 @@ This project is open-source. Feel free to use and modify it according to your ne
 Made with ❤️ using JavaScript for the Bruce Firmware Community.
 
 Github / Discord by : metalgalz
+
+![alt text](https://github.com/metalgalz/Brick-Breaker-Games-Bruce-Firmware/blob/main/LILYGO%20T%20EMBED.jpg.jpeg?raw=true)
