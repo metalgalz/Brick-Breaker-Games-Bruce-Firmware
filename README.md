@@ -1,12 +1,8 @@
-# **Embedded JS Brick Breaker 🧱**
-
-**Recommended for Lilygo T-Embed with Bruce Firmware**
+# **🧱 Brick Breaker**
 
 A classic arcade-style brick breaking game written in JavaScript. Control the paddle, deflect the ball, and destroy all bricks while collecting power-ups. Designed specifically for embedded devices.
 
 This game is designed for low-resolution screens and is **recommended for use with Lilygo T-Embed** devices running **Bruce Firmware**.
-
-*\<\!-- Replace with your game screenshot later \--\>*
 
 ## **⚡ Quick Installation (Beginner's Guide)**
 
@@ -75,4 +71,6 @@ The game automatically scales the paddle and brick layout based on the screen di
 
 This project is open-source. Feel free to use and modify it according to your needs.
 
-*Made with ❤️ using JavaScript for the T-Embed Community.*
+Made with ❤️ using JavaScript for the Bruce Firmware Community.
+
+Github / Discord by : metalgalz
